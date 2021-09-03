@@ -2,16 +2,14 @@
 /* section about */
 .progress-bar{
     background-color: #f25454;
+    padding: 3px;
+    border-radius: 0 2px 2px 0;
+
 }
 .progress{
-    padding: 10px 15px;
-    background-color: white;
+    background-color: #eee;
+    height: 0.5rem;
 }
-.progress .progress-bar {
-    height: 5px;
-    border-radius: 0 2px 2px 0;
-}
-
 .skill-item{
     font-weight: bolder;
 }
